@@ -55356,6 +55356,31 @@ Description: high-performance database - demo module
  This package contains the Virtuoso Application Distribution module
  for the demonstration application.
 
+Package: virtuoso-vad-doc
+Source: virtuoso-opensource
+Version: 7.2.5.1+dfsg1-0.3
+Architecture: all
+Maintainer: Debian Science Maintainers <debian-science-maintainers@lists.alioth.debian.org>
+Installed-Size: 98917
+Depends: virtuoso-opensource
+Homepage: http://vos.openlinksw.com/owiki/wiki/VOS/
+Priority: optional
+Section: doc
+Filename: pool/main/v/virtuoso-opensource/virtuoso-vad-doc_7.2.5.1+dfsg1-0.3_all.deb
+Size: 73774824
+SHA256: b636007dc2ac9afdf029c41a474964fc09fc1fac9a117cb2e3e81463d346c41a
+SHA1: 772fbf7b81166e3fb6a345927e1d22182d0b32ca
+MD5sum: 132ede60ede5ea98a38dded801dffdd9
+Description: high-performance database - documentation module
+ OpenLink Virtuoso is a high-performance object-relational SQL database.
+ It provides transactions, a smart SQL compiler, hot backup, SQL:1999
+ support, a powerful stored-procedure language supporting server-side
+ Java or .NET, and more. It supports all major data-access interfaces,
+ including ODBC, JDBC, ADO.NET, and OLE/DB.
+ .
+ This package contains the Virtuoso Application Distribution module
+ for the documentation.
+
 Package: virtuoso-vad-isparql
 Source: virtuoso-opensource
 Version: 7.2.5.1+dfsg1-0.3
@@ -55680,6 +55705,35 @@ Description: tool for engraving PCBs using CNCs
  them into the G-code (RS-274 code) needed to engrave the layout into a board
  using a CNC machine. Precise renditions of the original layout can be created
  as well as voronoi fillings of the original layout, shortening the toolpath.
+
+Package: visp-images-data
+Source: visp-images
+Version: 3.5.0-1
+Architecture: all
+Maintainer: Debian Science Maintainers <debian-science-maintainers@lists.alioth.debian.org>
+Installed-Size: 224685
+Multi-Arch: foreign
+Homepage: https://visp.inria.fr
+Priority: optional
+Section: science
+Filename: pool/main/v/visp-images/visp-images-data_3.5.0-1_all.deb
+Size: 74583096
+SHA256: 8d78de2b5d0ff5536ae5c281b11a5011fd6e95cd717c2e0ebf38bacf57723a9d
+SHA1: 224871999fd28cd6cb0b353957580dbf7a017e16
+MD5sum: d93da5365d0c5fd3e340b62d6b4d3a51
+Description: visual servoing library - dataset reference files
+ ViSP standing for Visual Servoing Platform is a modular cross
+ platform library that allows prototyping and developing applications
+ using visual tracking and visual servoing technics at the heart of the
+ researches done by Inria Lagadic team. ViSP is able to compute control
+ laws that can be applied to robotic systems. It provides a set of visual
+ features that can be tracked using real time image processing or computer
+ vision algorithms. ViSP provides also simulation capabilities.
+ .
+ ViSP can be useful in robotics, computer vision, augmented reality and
+ computer animation.
+ .
+ This package contains reference data for ViSP tests and examples.
 
 Package: vistrails
 Version: 3.0~git+9dc22bd.dfsg.1-1.1
@@ -59865,6 +59919,30 @@ Description: turn-based artillery game on 2D maps
  It is also possible to compete against computer-driven teams.
  The teams are styled after the mascots of various free software projects.
 
+Package: warmux-data
+Source: warmux
+Version: 1:11.04.1+repack2-4
+Architecture: all
+Maintainer: Debian Games Team <pkg-games-devel@lists.alioth.debian.org>
+Installed-Size: 105309
+Depends: fonts-dejavu-core, fonts-vlgothic, fonts-wqy-microhei
+Priority: optional
+Section: games
+Filename: pool/main/w/warmux/warmux-data_11.04.1+repack2-4_all.deb
+Size: 98475600
+SHA256: cceec72afcc9d5b0515149eb505bf0d883bd47399e602b30a805cafa2d91eb70
+SHA1: cf7c51eae263600487c202fb19ffd703709db8a3
+MD5sum: 7eb4da2ab1d939bea3d415a7501d8983
+Description: data files for the WarMUX game
+ WarMUX is a free game in the genre of "turn-based artillery games"
+ like Scorched Earth or Worms.
+ Several players can play together, either locally or over the network.
+ It is also possible to compete against computer-driven teams.
+ The teams are styled after the mascots of various free software projects.
+ .
+ This package contains data like maps and teams. If you want to play
+ the game, you need to install the warmux package.
+
 Package: warmux-servers
 Source: warmux
 Version: 1:11.04.1+repack2-4
@@ -59928,6 +60006,28 @@ Description: 3D real time strategy game
  .
  The campaign video sequences are not yet distributed here, please see the
  Warzone 2100 website for details on downloading and installing them.
+
+Package: warzone2100-music
+Source: warzone2100
+Version: 4.3.3-3
+Architecture: all
+Maintainer: Debian Games Team <pkg-games-devel@lists.alioth.debian.org>
+Installed-Size: 85646
+Suggests: warzone2100
+Homepage: http://www.wz2100.net/
+Priority: optional
+Section: games
+Filename: pool/main/w/warzone2100/warzone2100-music_4.3.3-3_all.deb
+Size: 85730052
+SHA256: d3b2c9f90ea5438d45d4aff18339a03ec808e1affa9dac91f7dad61cb15ee64e
+SHA1: 8c57c4715e9a470a8d82f85398571e6771c9fc68
+MD5sum: a61712a0d5ebd1198c1429ee67236cbb
+Description: official music for warzone2100
+ This package contains official music for the warzone2100 game.
+ .
+ It contains the background music for the menu and during the game,
+ which varies between abstract, atmospheric and post-apocalyptic beats,
+ a perfect soundscape for a heated battle with the enemy.
 
 Package: wasi-libc
 Version: 0.0~git20220510.9886d3d-2
