@@ -6,7 +6,7 @@ Label: OpenBosniana-P-Z Repository
 Suite: 2024
 Codename: OpenBosniana-P-Z-security
 Version: 2024
-Date: Sat, 08 Jun 2024 04:52:30 UTC
+Date: Sat, 08 Jun 2024 05:26:23 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  41d9c6720771b2f44579eea216b1cbb64a913e51d5707e1e22c9bec28f5cabf0 202 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZj444ACgkQ5Vfn9vbt
-T6opgw/+JNzDPVM8cqGFlpGfCTjdp3xcBlGeg0tGTddNfqK8pC/JLikfdjCN9YK8
-IqXy9OUNsau5RDD8E0KleJY+T2vFZ0OpmZjEjjcap2iT6iPKvLXiyfaZAPBr4hsQ
-gnJnRYDshMXOQ5iuVYpj+PvQ4zUsFw1ydY9gxxBjeIGWyNvrDCOGaYaP85aJBV7P
-PbdP3frx3l7JbtclFt1Lt/TD2v3xlTjPtv5s/M/FSY4OvhnQd8r4K1HMLtTeW1o3
-VuROlHx0RVGx2lH3X+DxrB7MVKfb3kqggD0AWY8xj2AgkeJW/nfKNDBYV2M41vCI
-Od4gwutAYVpfGy8nQRAR/YBIF5kYBMQprzwXT6loieXx6QxId9KL9OxrSCq765rM
-34aTurAVYXvDSQo83HHcEBAINyLMLv3kSkej2SAAAe9Axe5Sxh59yZw19855vmOv
-j5hj517d0SpysPUm93bmcrbAiKXH+mhsjpaWAme7KQLo57wePBbgKJ2K59k8Tspo
-70H0Hze/YRVN9rz8PPHqZuPcdq08HJHHE2DYuriP0BMzpty6S5jhsYodnrgnZWHF
-3uhnnfLcOehG02vRqbeI945zfzwrLTPBO9SEfILsaoPlMCS4gID0AoS2jRkjvKo0
-4RtpvkyT0mYBT8BIuxdwDHCzxZDNMQIVSWyQGs4voOWVmMzfZaE=
-=E88B
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZj638ACgkQ5Vfn9vbt
+T6oZ7Q//T05cBsZuhkwbuqJKiZ9dJRwu9VNxqCh60X+ymKcmpfh67X4nH/U6YiuZ
+amScg7Y1muJgWeIyda+jHEwmiZBqcQB60PD0wCOeGCvcWp+PtjsW01wC+Q0kbkhK
+4IoP76I38cmB1OSJMrlAuertryDpcafOAin+Pl/g05UYFT3IWwKUDzPBPXS3UsMw
+hj3Y7umnNkuJSgynz54trNX8HJZGRK5sBKLtFdaqke8D1Cxl8mO52bTKlb+ylEvC
+tb+bFcZTOwg6WHJ3StL0W/iY2FtetPHp9IUxJ7JOWRYlz5y3vp0AWgX7wf7J3prZ
+qe3WkLxPFNOJdOeUVKoA1SACBfl0YfQt0DXmtSXVLWvnP/vudFbh8ZShqv3vjHAm
+3ieGA+Xw0mtBIcG8p2Grg6YALqDB6CmGVeI0PtDzh0znn3exdUNZqwJ0TeRIHf8M
+oLBIOH8NYuusNQyC3MsQm7qsFiWol5uPVf58WkNasx2ouwtp5uPOF4PAZmsxqB7E
+L4qNRC5sVfg0VvSt5w233LfBJSVkm6kRupnMFOX0SJlnm7Hgy+VUlVRt5ihAQolN
+khnf9xW5/6naR4FZ+XtjazCw5ff6p/WU0rFe2pJdWBUjay8CWfFDNyCrtGxa4Hlo
+sJQHjeiJ35/BwuNAy45HN0Pj3WDlUDEMw+67X6X+1mWh4+Es2Og=
+=jCGh
 -----END PGP SIGNATURE-----

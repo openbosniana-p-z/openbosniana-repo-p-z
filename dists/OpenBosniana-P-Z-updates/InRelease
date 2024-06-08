@@ -6,7 +6,7 @@ Label: OpenBosniana-P-Z Repository
 Suite: 2024
 Codename: OpenBosniana-P-Z-updates
 Version: 2024
-Date: Sat, 08 Jun 2024 04:52:29 UTC
+Date: Sat, 08 Jun 2024 05:26:22 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  944b77372114d18adba4b9a44c104f47bc73a37b626dd51d065445f72444a373 201 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZj444ACgkQ5Vfn9vbt
-T6qomBAAublWyCYSfZ0Wi7A2O3rjSmydUoeiCH2/204AT02CYUhuhGrVMecPAFAR
-wMRCBMznezQUKMj7baugtFNTRCpi7udFMslXyLMfxjmKdl/wCPw3/03ies75lwWT
-qPJDO8wEauWvv+uvqvzfepV1o7Mcih7ot3x85A/ZOZWMdnNQ8EJYYIiAPkH+7CBd
-oqPRNsDmuRS8g2GMOOhHuifQ0XqRZ7tUEr12bRQPqaqPdgXqCkE0zignmh1uF1L5
-KV1MYonjAl3Sfcc2TGzOyVytui5zNzPSKHDQg0MNjVRsCdYYb6RLL4dsa2moX4LW
-+tNG1ine1JIzrJuv+n6xmp7oTRp+ut980X/WQSUTy7tEVyuubCPZWDbXoSr8vfgo
-BuNf0YgVTt0oEEsnqLWexIZ9F5z79TDll0f+LeVGK/Bpe+XjsV4uqs1Aj9OlSOf+
-3XF8N197Q4hLhvhIICjk7YyVNAElh1z+jM+a3hBkdapKSm2DWsg3LwveHhKucLYR
-lqtUnndH1dtruI7cf0Iv9XZjz0WDUYx30BszRFs1tDDXAsqsXgV8hBKkslC/yK9B
-dfmyjNnJucfxqOySOAKk3OiBgwvyL7+CXDJuoPVkHbplVyZl70gnyBYi/7lUAA1Z
-AytQEMmqOJlrjes6u2GIwEtgZHJqDUX1AzrJMfmuiS1GbJBMvZM=
-=3hk3
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZj634ACgkQ5Vfn9vbt
+T6rXEg//Q3zQpiqehBPYTgzXrDLu8JeZW88RC3FKck1VBVvXtwY/SrVlPwmDd4ly
+NV+iPLce8fyGbIgJaskTWVj/s99YKYNdKTf9t1Ia+2MYWwuXR9UZs83IHCKAMwYv
++lfD+HfuCX9oJN30m5liR4T1GgHQEeglCES7T8HNdto8vEeFXBF9rkaZAgiJwjJH
+hhU1n/PkDS/g/TdnWnDLrFXwZ+NjZqTrLyWpanQGtQrYTvfNK7Kgga8nTmlkd/II
+ZEK8IGLizIuSrkI0kpst2Vs04i5BNB3KGxeAh4K6+Ci+5M1gZXeUvyUTcTZWqVg7
+uFwGtwrLdqCuju6Cr9v14ZndAHJ7xur9ers7e/Xz/P/RWAMy5W5Dj3mmKlyCiZBu
+Ztt2XubmNUsL3cB8qJYRotiP7zuuGUKfaKREF/zpURCwUS1bh067gp/5zsFFVD4d
+ks3Qmy+bl1WLIn9x0Enh+4UAwQPHuMN7EnkhbWEk5/hwnQqy6hBe+wDt3wh3TBV5
+vRNWnss9JIkcPe5SCkUQ7TipVfN7E/3p6EFDkM15z+eWNTiXpY3RlJbyTN8JbF6l
+00a0tPbUr9Nu+KyfZ7PVhIt7XkKkWTXCUu17ph3UfLhhVMmAhwWTHs5roEPcCrRv
+vtYX50Szprc7eh5SY8teuTmW+7jVM4S6ymJYI2gKDjP30jVlUn0=
+=qa6z
 -----END PGP SIGNATURE-----
