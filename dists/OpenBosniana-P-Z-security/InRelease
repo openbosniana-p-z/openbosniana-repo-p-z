@@ -6,7 +6,7 @@ Label: OpenBosniana-P-Z Repository
 Suite: 2024
 Codename: OpenBosniana-P-Z-security
 Version: 2024
-Date: Sat, 08 Jun 2024 02:06:08 UTC
+Date: Sat, 08 Jun 2024 02:47:05 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  41d9c6720771b2f44579eea216b1cbb64a913e51d5707e1e22c9bec28f5cabf0 202 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZjvJAACgkQ5Vfn9vbt
-T6rrMw/8CB4YPu54dK00VqwfPJHartOMKQllgDCBDV89R90BUnunJZmOQREtQsS3
-gXc2nDLNJmcoihw61PCxfbZ0qbXY8o3hp3Vzuirzu7jUqxtwlgw51LZxRZUTj3i1
-EZmeLwHgTwDWopvV+IwSJwjkV2cLMazl/kYgTc+ocnHc9K2wIiewKA5bGAJ6SQ4/
-9Mtl7A2Gkzfe5nHMF78jaehgr/6uIlcfg5tgYieAEAX8Y+M9usHs+oyflG6RuuXc
-6F/AZa83XA25hKhZhdjM7WSQisNyNsFm4HqMXjllsivxtIM0h5p5O/3bDzJ6zkwo
-MG3RfJkeEL9tCT9q9TZIg31lhd5FZhu/IlcZ+uwR3chqOTP+Dg3A7T4AyL3SSLq4
-TP52fs0aqURiyfPKr7D+K95D6o91nVdxlcVAm6S6wvWut3FPTXbVFDVz/cvrDN3O
-r1MudZpN7iIHMDpyVuw1V+My8K0+o6JyXWHz5+cpSvQJhCxIqbMd9zBwAoRz1dFE
-GcWn8HoRL5+6QXOg9ZygpUlSj0CekkCx8ukiAmgKc9BZiVRYODpKZKkuuaMXoM/A
-knlUeTNlTwYo9/BJJXYMTD7+PhXOJulRDCcAW9XyhFg/PD/n8tb+MWFbYAiJdzLe
-NPCFc5vtRNEDxqf/pHvNEw+k6sXXeHYLBf0QpcdmIQq4RjuvwSE=
-=BEA+
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZjxioACgkQ5Vfn9vbt
+T6p3lQ/9ErTj31JJSk78owac93S3hfJrTydZaXBs3ZDcYglLg0gvnp4G/zq7303G
+M20zPspZGXHW37+M/9iHiyGhnjPLDy/TDMwtra39telq1rz0RukaicNm2X8M2j3F
+EwovxTbXjo3cIe09bUgqw6y5ggX7uBJiayda/edXfbMjiKKVE7JQxkoymKY8g2zk
+jojWBNsA2Jom7rk6YBhj9J8nfXJfASJrf+NTSVzwXN53Jaa/XRIt6QfdVsuwdnLQ
+E3UTWO/jeINM9yO/D2XTq5AM7xqmQ2LUEMSPAZQSOdxNweX+mpY3S/IpLY2g5B8y
+0cDrJJDTKlu9k/PYNlt/WGYq1P12XNTV4eAEjBl7eNHPJr+s1TmPrtDMUjsKzUw4
+0WJPekLQPfSqS7wRuli9lXPevcQiU8VmAG82YkSa7GMGMvZgAnhk72X03JLLiOdT
+WJuzNrdW+9CbOdDvC7grvOjdUQMunHkb8bXdu2y/MjWgM60wsnxcYmatRHVFOxs6
+oYw492+U4ICR8IoQAT9C74xwE/RENG0HfwGOlyaxkgSvHs4FpUAbrE82D2ozwtuE
+2xArKw3PNyLoF0z7nY4AiNRFnnzBIjrUUMgx0gZv+UygPzBQPGeDyilJHGpSLRr6
+2r8THygucfhILsKloNECjUobgbtwbCIxFbCV3/byqbxGazVDjeM=
+=x6ui
 -----END PGP SIGNATURE-----

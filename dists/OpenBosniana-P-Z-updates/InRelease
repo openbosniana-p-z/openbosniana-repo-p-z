@@ -6,7 +6,7 @@ Label: OpenBosniana-P-Z Repository
 Suite: 2024
 Codename: OpenBosniana-P-Z-updates
 Version: 2024
-Date: Sat, 08 Jun 2024 02:06:07 UTC
+Date: Sat, 08 Jun 2024 02:47:04 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  944b77372114d18adba4b9a44c104f47bc73a37b626dd51d065445f72444a373 201 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZjvJAACgkQ5Vfn9vbt
-T6pa+Q/+LWGpp/HWO9FGTBtsGYLJ/4qI3FaH1F47FZHIiv0q07AVV3yst5vnMlIL
-kydocxrkPQ0NIulCgj2fcsI7cJemrxkyC8J0cauKKWghgv1K9hj6Yv2cJPVkAKG7
-XsRWQq/MKCvfMmfV4lWqLwIG/FpkF1lRhwsHuZO2OhbZ/M3Q00dgrk1c1tM0rh4D
-GzPMzYduvFRy9GIp2h1S9f7eDX3NR2XO6hQMeA/L+BIvWxTXMFq8vpuy6f4gQ1ww
-5soY0AvcaSm3GAyh2ZQqyLpLZwstBjAFaSFtqrhwiRyvssqgA8M/QYlo2wpInil9
-RIso3WiJIOAd5vCo/jw25v4KUxlQFgm0m77o7IMXiJoigDx4qha1QtQHYZ/e4dwO
-p1ZE0BAxH8VaChn2rYAAV0BP9W5zEKj4cB/9a/QeGitlrp2s+Gss0esHP1d6qhEI
-7jfYI6WLMwgEV30C4ZTcXCwaX8fZx6N8/Mlp0tN1Mt8dE+5HoW7gl8M0bCAtMsue
-ivfg+JOc6MLmLA7Umb3MiRRr9w2NiypCGf0zyIvZ5H/bYTtvCUt/cit3sQ6Csqrn
-fWmhvABP6gqpqrPWoCN68E6RUTBx3AA+4duxLBwfX1GAPomFu9I3CbS6xNv14Ugx
-5AJUFhviloTD1ZZMSIbdi9YOg35LRQFJOIlY8kZqv/V/hsiUaLo=
-=m8jX
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZjxikACgkQ5Vfn9vbt
+T6r/axAAnWQogEVhdGdrheypurhkI9I7qGi6D5kX5KSc49RByjIS4nP5uTsseaCH
+1rrQKojXPEcOrNdLqKePXkb3UY0h5OFnyo4RiWEdq9f47C+f3k6tfxw0VK2mqz39
+5sspnL36tylX6ShTXwjirhx2UPre5Lnct/AnxZ3BkriJhl2/pTzgjaBUukNH6hVS
+pgt18DF9aUzS60Cf0qG+kWZzhjB0g3UWc6uvy7d6hyYpCFKRMX4xISujKLQKggQG
+NKURBE5nsNPRIDEVhvNnX3pLTAutJdrk+CdDCfs0VurKul1A9xCmZBdz/RfYvFoi
+X8gEMvwKyMlda4vMQpfsdrjORDldS1tNExGRJdRdP9uMX+rv37wsG7F8oNDOzIyx
+MMHb31Pw0JQL+pzeFX036CyEt6asBmbxZy7F6XsjpGYW06s8pc/dkWhiceEjKBwV
+zYAKoqL3Fkf7V0c0mzBtZB3Fa3dxJB2YTCFjxvvJlftRxwQVrLtpuaawgapstbh9
+fsgqjamZilQM+xrJ6JZ8NU+1jlFywvPIxCRt6zMamgoXRd31RGZX2FHJudiWG+r0
+ZJSgrEG5Img2AY07v3/Y7zXh+vyr5yC3t3PkfjW3InAUil0+g9HHsB2GQ+tf/4Ee
+O0T3zwbgqQwPVupAgGGBQlzSKVN8ls9UeErGsi7VXqI9IIQNXQU=
+=oNx9
 -----END PGP SIGNATURE-----
