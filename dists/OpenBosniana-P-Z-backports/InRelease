@@ -6,7 +6,7 @@ Label: OpenBosniana-P-Z Repository
 Suite: 2024
 Codename: OpenBosniana-P-Z-backports
 Version: 2024
-Date: Sat, 08 Jun 2024 03:39:49 UTC
+Date: Sat, 08 Jun 2024 04:52:28 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  51e5bd2322aede6870d3c21cf359a750e022783beba0856bb697dc13546cc1b9 203 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZj0oUACgkQ5Vfn9vbt
-T6pJDxAAh4rawpPYqq3R1jGkOWwwDqdQALu13JVgKqabZe0dfVheJ+TmEL2w7/Fo
-ouxHYNXXyDW9yvgWsmqwhV92bgYkyrZWC+ESgkyhg5Oiu54ZoCwomQa0TGtGyq8u
-wgdA38MB3S1jdvmPei95QpDoGRh1XbrXCYVDU5Yx/6JP/2o0KddYyQzPBCS3WNj+
-WjsdYA2/h/cV2oT9RiG/FV/hHn5UFso+32G/dFGwn+qnibg/VVjbnf4YE9XFkex3
-sS7GE6lGwRsdK2sBebZkOkq4jVPzqdCgu7nKiCzeIi5HCaTT7OEDkndxNjkqmsPN
-1ZcCn3DxVbUQA7BhzQL8is4Rrqg4cme9eRlU9QYO3fFiHVu6H8pPQ9QbjxbwWO/F
-ptJi318slWXHxrkslFQuPnocj8ptwHsIx6lFB8E6/TJudKhbE3579Kxl3VDjUUAQ
-2Yo1pUYN5kN6NNl+TDWDPQBHmhKuxLJ+3lshrl73KuNbEstCY5B8+Bd/mlJ4s1/T
-vgQ4cmWhf3amgpIpEQmGiz6VsLep2w7NMplNzki1Ba4DDz9d7WFjPa6z6mtbLuh6
-jBOyi6D38hHdoSkLvbeXhg0C6s7FeiwERahjRbaHyNwKtb7ohI0c4t2ciblwOWbU
-632jZTlTaulzJOV7SyUhCw8vcRJVKdNxIiAcxCAZHxzoABa4PQ8=
-=npoG
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZj440ACgkQ5Vfn9vbt
+T6q6Cw//U3U9hxMseMR8Joje1gV+PJNMHQ3LFzRXd9LI0kk/Aaf2NUg21tzBunZt
+Eaj2PRM/CbiWKroiinZIKa0H9MGp7mWvIocKHTOMvMP+wjFydjU1OnIoNKAsNFYS
+eaHIHn2croI4psU0HDW1nGqlBdjvq7DKa8EVHGGdZvvsjvU5eBnaHvemgMQq2zd8
+yfMtlksHg4R11TEnZD1/sdp1815jpIBs66CgVsk8CkS7243252pVKyQ5n8XC4QpP
+7//VhVCHBsQiNh7cFDud+1O3m+iIptWHqtEPwjI89f4t6XJrr9vwQfmBvadJcit0
+oHzrcc1jyTWINRQPnFLubFlDKHTc7x8SNrfkc9hO/9ZfljwMbrpSnHQDGJkMx341
+KVwjb72rDQ1nIiUh59WhVVtqqbepkcWPAfGPqLpDgldEcCI1J2ydfYe2wld2Fulz
+8QJP8BHVmLeLabAupEbrv/bKuy12T6nWCKQJWYiuaRrSZp7eKEZTEqBK8C2UZSQ9
+5HKF1OFrjB8gHoISSjm+/Rw+Wbiilrf1kGieIuH+Yraq8Mev+mDb/Ma6igptsqCr
+/vLCIXJ9oZcHu5YWvVyZg4XpZKFYE4FQVzMo2Ywb04UDNpE13mekUMZLRhhQQlvp
+fr6DvPR+s//rK1UO/kQyf7fOTXRSzni81SWfvDOxH/226G/nYsg=
+=35N7
 -----END PGP SIGNATURE-----
