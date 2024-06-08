@@ -6,7 +6,7 @@ Label: OpenBosniana-P-Z Repository
 Suite: 2024
 Codename: OpenBosniana-P-Z-security
 Version: 2024
-Date: Sat, 08 Jun 2024 05:26:23 UTC
+Date: Sat, 08 Jun 2024 06:06:39 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  41d9c6720771b2f44579eea216b1cbb64a913e51d5707e1e22c9bec28f5cabf0 202 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZj638ACgkQ5Vfn9vbt
-T6oZ7Q//T05cBsZuhkwbuqJKiZ9dJRwu9VNxqCh60X+ymKcmpfh67X4nH/U6YiuZ
-amScg7Y1muJgWeIyda+jHEwmiZBqcQB60PD0wCOeGCvcWp+PtjsW01wC+Q0kbkhK
-4IoP76I38cmB1OSJMrlAuertryDpcafOAin+Pl/g05UYFT3IWwKUDzPBPXS3UsMw
-hj3Y7umnNkuJSgynz54trNX8HJZGRK5sBKLtFdaqke8D1Cxl8mO52bTKlb+ylEvC
-tb+bFcZTOwg6WHJ3StL0W/iY2FtetPHp9IUxJ7JOWRYlz5y3vp0AWgX7wf7J3prZ
-qe3WkLxPFNOJdOeUVKoA1SACBfl0YfQt0DXmtSXVLWvnP/vudFbh8ZShqv3vjHAm
-3ieGA+Xw0mtBIcG8p2Grg6YALqDB6CmGVeI0PtDzh0znn3exdUNZqwJ0TeRIHf8M
-oLBIOH8NYuusNQyC3MsQm7qsFiWol5uPVf58WkNasx2ouwtp5uPOF4PAZmsxqB7E
-L4qNRC5sVfg0VvSt5w233LfBJSVkm6kRupnMFOX0SJlnm7Hgy+VUlVRt5ihAQolN
-khnf9xW5/6naR4FZ+XtjazCw5ff6p/WU0rFe2pJdWBUjay8CWfFDNyCrtGxa4Hlo
-sJQHjeiJ35/BwuNAy45HN0Pj3WDlUDEMw+67X6X+1mWh4+Es2Og=
-=jCGh
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZj9O8ACgkQ5Vfn9vbt
+T6qRBBAArGpLDFB24lDuXhSA9EZQyu3wKcfMueZxKoq21Fq4amn1OUzD4tT1m3W0
+PEO8AAvhSILWGTMxKUGD6EZ+juJ0XMkbJ+k0HDtBYyso+T3za32a/y0ySf2+Pagx
+N5K+bzAfW56zKp5L4uIzUQsIn97WIw9d+c4toyPhZ9+jopM9rAKc1zQNhqog321N
+c6uoubi/O9Mb3YOEWLk8veD/bnE9zhL90JQo0IEkOo1toIxzhAtTY5MFTopEHLsm
+Pt8FODFQQ7ec7K5KIpfzEuBeq5jxs/ACd5k2ehDeM7ZNz9MdmPCwoE+6JWCAq21G
+L9fiVlb93jwL0fvsNcH6ARLyfZ6PAPOnIq4CKxlJM+Si5E2hRGUqqAslDxVddDYc
+f6qoxrJU+bb+WYYIKKRc+yIerQaZPEtiE9ecXjG7wKpxnyQSxCKUc2mlFyASWWRu
+3mwgrBH6wND6czNdBiS78S7s/Ta/8mKh1mUB0/LZ34csJKpsHzr+8GS4mL2wZtco
+k04SiIDqcTBQKjG8tYeye2Pj/OoBIV9gnGy8o4sl4YiI/BmMJ4LVMflSu4ahejy4
+ulvbJDz4UTLmcr9VLm/GpygvVQAgPM9spwjiHINhUlvh7XUSHy6PNaYbqV5tkDh0
+AZ73wXqwKm8CoZERleFlxTLjt6xnmVCW7NSKrvaJIxz9A1r5h8s=
+=i2eP
 -----END PGP SIGNATURE-----
