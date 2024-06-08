@@ -6,7 +6,7 @@ Label: OpenBosniana-P-Z Repository
 Suite: 2024
 Codename: OpenBosniana-P-Z-updates
 Version: 2024
-Date: Sat, 08 Jun 2024 02:47:04 UTC
+Date: Sat, 08 Jun 2024 03:39:50 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  944b77372114d18adba4b9a44c104f47bc73a37b626dd51d065445f72444a373 201 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZjxikACgkQ5Vfn9vbt
-T6r/axAAnWQogEVhdGdrheypurhkI9I7qGi6D5kX5KSc49RByjIS4nP5uTsseaCH
-1rrQKojXPEcOrNdLqKePXkb3UY0h5OFnyo4RiWEdq9f47C+f3k6tfxw0VK2mqz39
-5sspnL36tylX6ShTXwjirhx2UPre5Lnct/AnxZ3BkriJhl2/pTzgjaBUukNH6hVS
-pgt18DF9aUzS60Cf0qG+kWZzhjB0g3UWc6uvy7d6hyYpCFKRMX4xISujKLQKggQG
-NKURBE5nsNPRIDEVhvNnX3pLTAutJdrk+CdDCfs0VurKul1A9xCmZBdz/RfYvFoi
-X8gEMvwKyMlda4vMQpfsdrjORDldS1tNExGRJdRdP9uMX+rv37wsG7F8oNDOzIyx
-MMHb31Pw0JQL+pzeFX036CyEt6asBmbxZy7F6XsjpGYW06s8pc/dkWhiceEjKBwV
-zYAKoqL3Fkf7V0c0mzBtZB3Fa3dxJB2YTCFjxvvJlftRxwQVrLtpuaawgapstbh9
-fsgqjamZilQM+xrJ6JZ8NU+1jlFywvPIxCRt6zMamgoXRd31RGZX2FHJudiWG+r0
-ZJSgrEG5Img2AY07v3/Y7zXh+vyr5yC3t3PkfjW3InAUil0+g9HHsB2GQ+tf/4Ee
-O0T3zwbgqQwPVupAgGGBQlzSKVN8ls9UeErGsi7VXqI9IIQNXQU=
-=oNx9
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZj0oYACgkQ5Vfn9vbt
+T6qtcRAAlcbu26ZwuxTF49Xt3gLHbT0SFckh2+nmwGyraYMIr4pIYVHIk8g1IZ5E
+rH3/xplh52vpyO9NlwzB7HaDOEZZ1UPDp5VAYHrEOTgUJctIEfthHIc4JO3ROlr9
+d49nBTzsyLSOCmx9FgOArdamTH8buAZAxYoJBprD+pQ7K6Y9KdE6OBNKSSaXIW0Q
+Tdp73IYKMDhtrJlINT132B1XlTKdVlUtFGSC0KyrRsmm5/Ej7X1YHjvsV1Y7+vDW
+v+8zjtULKUbAuZ9PljGlz5FPwrR2xrXIuXymIGUcI4ypgH34MChGZtr8Q9BbyPbn
+WjeIVTRJDXWiATZglMYOEkSQe0tz89f4a2+HCj3uC9MyESjNEONJhhZhxMeM5JTf
+BD1Q9ikPH/Y8Jeux+y/8rhFgWxWRpinbvzrJO6keeOQooTKYBZM8K9ISRKNpcbgw
+hsgXiVqH1o0gXdKnd1n3jAjzM71v2ooQ82ghGr+O+ceY0+6GknANEh/rCtwd7OhF
+YvWxE1PubB5meVUAM6ycJydFMkdK1ueYk9IHkH6KdfXwAbuaH4pLi+t3lizokIpF
+rtmxwv7EjEh7M70uII2xrxtsibCmhQSfWOjCfRuyaegq6veDtyN+vwW9Bh+SYfWu
+Y5nV5nEw975kgc/dmllWp/T3w2ntOVxfMHFP1R+Wgak71KL8krs=
+=cfkg
 -----END PGP SIGNATURE-----
