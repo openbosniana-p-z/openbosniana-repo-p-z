@@ -6,7 +6,7 @@ Label: OpenBosniana-P-Z Repository
 Suite: 2024
 Codename: OpenBosniana-P-Z-backports
 Version: 2024
-Date: Sat, 08 Jun 2024 06:31:50 UTC
+Date: Tue, 11 Jun 2024 01:27:18 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  51e5bd2322aede6870d3c21cf359a750e022783beba0856bb697dc13546cc1b9 203 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZj+tYACgkQ5Vfn9vbt
-T6rh0xAApl1H5tW5qnVbjryh5UYY388nhEGBsJOnufiJqRAtSstvn9qxLHjdpenR
-dgCE4YH7qbglbzZukxywQOL7rsnWQCeBK3fs2rIWLXdTywkG1hGHQ0vhpMUCB8dt
-mWVBeYK4Sw46X7PyMUvafTIXTjL7hDZ+tgCLHLTUuHfp0JGQ0Jrv8IhQahEo6lNc
-usD/UaKxBty516Z0xGOzVfJWqIdwlZZsWGawOY0lsb8Th7OIC/37+gw3QnH6MmDE
-t58Drq3JFEdgKhOcWxiP7b/6wjNThEn1PKa27nGfSJaoEjeUwjS4EhsXlmKc/XGA
-Mbgc2ONkpL830au9A7c9rcYU5gCk+ks7uMXAqFLPXRTS6aXhctdFJlzLY4Yvorgw
-D9iX1ImPuZiMMz4W0grYZRnDzLQmjpcl4I/Ol58ldFiLWF60sOkacthA5WMbdORA
-Ip/xiWbaM+PH5t9N/qWJGm1n2tBMkIE2w1SVeA4Gp0ebE3T16HUpZmgSAvvkUpDN
-noW+2y09cQf48LBFGcSm1RIv8dIBrXtcgztXC57+TkFcM3p8aM3QVndlGthIWqoS
-JDXKZ6WNe+4rwZkASr/i/LgPUVvawoW8Lhe8zf7TwFFDDu7Dcy5NQslipMiKsN/z
-LUJgaokt42anSqbwrbPxXZ5uGEA6J+05CvdIiafdx11vSmNbs04=
-=F54o
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZnp/cACgkQ5Vfn9vbt
+T6puGQ//VOzQJwe/1MxzNCAu7CP3Vaj4NJyUXz1k3ag4idw/SUZ8IAySyn4SpJqX
+xWiMkuBWBRPsQW8JN5ogq5qQgESkgUwMtJBe2lQyohmcgq6lJqWACvzal0BlijwY
+JOWC0jt6R6TBo49ZqXd7hDvDJj85P7Bsb35DdfQZj+ExiBORK4lxK307V1oLxw1e
+EvEqjyHQsC1itgKM1K4ClECn3ty4K0gYMup7wMkyf4L3eoPTF0da/eITcodOGnff
+efXFCZd+0i6h9+vVsy3HNMCV40O654oBIXsvqwOZf0l6oGh5FAR1T1SnczaxRGAx
+ykEj0F+bVN6oDzL5NOKkygvTowZFtYn4I585y/HVKokQzZIxA9mCeLEGmnvn9dET
+nw1dwgrSSebNy8qfF8A6nlSKbBGkU6I9wPEnjsr5SKw6yks1I/p9cwny6JzZdRuI
+lU4mQz0gqy28Ak4wSn1w8M9WJp9D0VPLU+B9JNbNa3BMeHVUbdg9YIK7tqvJchkq
+dAP5KgNYZW+9kHyqOWGa8VQMtOiqrkCNVpzHN7VxPL2fjt7za2oiQKvx06sR8SQ4
+89IPTlCc8uiT2jvjtvAaAxr07dPMJ3mmnRg5w3TvP/IOcCbkxU0fDn+GL37JdaiO
+ILSQY4SiehS3Rkfq0sWsxowM4CxkqU9hObTKF2ZGrnf3cL8XNmY=
+=qO3w
 -----END PGP SIGNATURE-----

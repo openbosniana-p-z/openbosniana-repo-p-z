@@ -6,7 +6,7 @@ Label: OpenBosniana-P-Z Repository
 Suite: 2024
 Codename: OpenBosniana-P-Z-updates
 Version: 2024
-Date: Sat, 08 Jun 2024 06:31:51 UTC
+Date: Tue, 11 Jun 2024 01:27:19 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  944b77372114d18adba4b9a44c104f47bc73a37b626dd51d065445f72444a373 201 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZj+tcACgkQ5Vfn9vbt
-T6rLVw/+KM/JcoUvdOZfjbE7PCnx5KycyEF9eaLfTQpl0Q2/xq+8Wcz73Nf+ffMy
-RtCdofFbxedJjPT2OAjqIX4NzCvnKczmQFd0PddylWqXvv2QU+g8m4fRtAug1SoA
-IvbQ/ygeavJYzhvOT8KXB958rCzq/AXWNZDc+evpquHp7JebAr559XaPnPCJ6g1F
-ncbpzCTeFfYaKPlOTHAOIZIP1CHkEmlPyapTKm/WxR6gvP52F/yMAQohRI3aVemj
-TjSdeZAwqYvqN0fpb1yDhZVyaFLhgp/iQEU6HTsyBnEO2RfchGtgBB6Gmnh43Lx0
-kCMX4vCO6gaw+bZqhV2OcYVnOwO8CGNiymS7jJMGFknHn8SJCJHXHLzibA1uRDfl
-O5rgO/FifS9pSb/SsRq5LiaBQg4Zj9VMTdBC2duJY+Di4HGbqH/w/dxQHFK0JlIu
-6+fvkkOaMy7s33ntoDkunm9cz4WbCK0pFuYKwbXC1AW8aMQJM/Lq5KtQas6LMFVo
-EeUoAAG51UwYcnpyaiUVlwn3qSkkNzlf/4OW8gZXa21r7Qv85jpos8tJshvZjhxj
-YI9UI+/XX3riCBygJ1EngVEcFe6dHaJAzyPzapF/1Zu2JYRb7mW7R8lV+PG+dIGO
-eJkSjL02u6ssNt4ZjWQlFUQz6a957HQNSDRsEEc/x05sZP1Uzyo=
-=UE/u
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZnp/gACgkQ5Vfn9vbt
+T6oVahAAnGqj29IS72/sDqwnXa508Wp5UXO1+RAFjzQSgUENNOY1mm9ujChz2C/1
+NRHankPuaFUido2oxxwtr9VSkGkAY/UCzxciwM30kI7UEt3zf4TSvThYt9HwZPgA
+4jdASQLJZJ0yuv+SKCb9MZx1/q83OdSn3u/AQOOAD9p2pOwhsP2D2Rkecd6wIt1H
+r1NyTsHZm+Y8iM/or6X9uIAJifvbdCjeeYqpAs3JoX8gzEB8Z0BJMwrqUOZZB2ax
+C9LZBrsegLQ+Aj3q/XK4F9useBGPmbxaeJMedY0zLjGJb7dE09NUtcRkZNA0TBcB
+Rj/TgZkiWqmOFm5GM2GZLay57knfZFVm9Jmx3JKUY6NzfTrlhm8/jKGhTuZq2A6L
+EMWnOxe/qjNSZrYyQKYDvU74r+8OzIEMA375wMfHQ3e4mpNNDUbQCR3Ua4m/JO/4
+UUUgLOBbWlHXT4u2iX8nkKlbsVMrD7yPm75it8ptxH2uob2qxjIU/V94yvaKxamw
+5oqAK835QKaH2/E+ovu8+Zscs707jv/maYOPFhfv1/aiCuRYxH8OW+LVEqspOzPt
+5seS9VKLWnlHJ6S25UkcCH0bY0VVcNK+9OSY7BHKJQxPOsusfP8QpiZvPtDPAMWO
+oDn5LZVMTnC6qoIcfkpmmlSEnCyUCYQE3Cx57oDP+ao+e8mtLt4=
+=eASF
 -----END PGP SIGNATURE-----
