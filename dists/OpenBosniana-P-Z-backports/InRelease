@@ -6,7 +6,7 @@ Label: OpenBosniana-P-Z Repository
 Suite: 2024
 Codename: OpenBosniana-P-Z-backports
 Version: 2024
-Date: Tue, 11 Jun 2024 01:27:18 UTC
+Date: Tue, 11 Jun 2024 02:23:47 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  51e5bd2322aede6870d3c21cf359a750e022783beba0856bb697dc13546cc1b9 203 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZnp/cACgkQ5Vfn9vbt
-T6puGQ//VOzQJwe/1MxzNCAu7CP3Vaj4NJyUXz1k3ag4idw/SUZ8IAySyn4SpJqX
-xWiMkuBWBRPsQW8JN5ogq5qQgESkgUwMtJBe2lQyohmcgq6lJqWACvzal0BlijwY
-JOWC0jt6R6TBo49ZqXd7hDvDJj85P7Bsb35DdfQZj+ExiBORK4lxK307V1oLxw1e
-EvEqjyHQsC1itgKM1K4ClECn3ty4K0gYMup7wMkyf4L3eoPTF0da/eITcodOGnff
-efXFCZd+0i6h9+vVsy3HNMCV40O654oBIXsvqwOZf0l6oGh5FAR1T1SnczaxRGAx
-ykEj0F+bVN6oDzL5NOKkygvTowZFtYn4I585y/HVKokQzZIxA9mCeLEGmnvn9dET
-nw1dwgrSSebNy8qfF8A6nlSKbBGkU6I9wPEnjsr5SKw6yks1I/p9cwny6JzZdRuI
-lU4mQz0gqy28Ak4wSn1w8M9WJp9D0VPLU+B9JNbNa3BMeHVUbdg9YIK7tqvJchkq
-dAP5KgNYZW+9kHyqOWGa8VQMtOiqrkCNVpzHN7VxPL2fjt7za2oiQKvx06sR8SQ4
-89IPTlCc8uiT2jvjtvAaAxr07dPMJ3mmnRg5w3TvP/IOcCbkxU0fDn+GL37JdaiO
-ILSQY4SiehS3Rkfq0sWsxowM4CxkqU9hObTKF2ZGrnf3cL8XNmY=
-=qO3w
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZntTQACgkQ5Vfn9vbt
+T6oKZxAAtZ9110XmH3P3CBJDoU5yH26cFMCSws+Z3xMcov7/e8ZOaCqtN9DeF/ua
+vFpLChouGqW9gbsi2TvrsQGLT/HmVqIy+YC8J8FcL3DrfNzJvVpXrCtkKv1h5sUZ
+KKiDavg4cL3ylGGDzZ8C+3ssRzhn66OtMaDh2jGFSeLKdS+dA/WpBf2+8U1Q44ji
+0QRHsQq09GcuX5nfXLTHede2alOkNFJk4zmlCAADio65vj9feJhAWsQkiML5lCZe
+X0lLkJ5K7rNNfTLMibIN4ttJFRZMGh0HJ7IVQ6ty5PkcrdK6ChSMTznsi8U2ar/y
+lxqPVhc7B4akfRB7w6XTW3d53tbRw703A1BtirZvPHI4iqQsiwGjFyW/66Lg8BLH
+0kCKve6pZ2OWB+aIom3zbtAni5yfq2VrSl0JDJmhTm39FP9pGaCqF+ped+kgTx93
+fnBdtqnQdKAeF1mAMVG3o+31y62WhRl1z8W0TvJP6ozib45xvC/C1ss3G5M9RFpn
+mR4XEEGH/D0WFWQ6hKB5AYYWJ9mBZ+1pzjYhZzFKKAC6cFqRo6Tb0DS7WALpdROF
+AzhjUrxXQ1hhh+OHN6+KOzRooKWTy5DHADaWm0njgodn0wPtetRjuNlZtTlZW8j2
+pudoFgnYxyc6a79DovyxqWRc8BiRhiVOuEqmRf7CRtJstwsevr4=
+=GWaK
 -----END PGP SIGNATURE-----

@@ -6,7 +6,7 @@ Label: OpenBosniana-P-Z Repository
 Suite: 2024
 Codename: OpenBosniana-P-Z-security
 Version: 2024
-Date: Tue, 11 Jun 2024 01:27:20 UTC
+Date: Tue, 11 Jun 2024 02:23:49 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  41d9c6720771b2f44579eea216b1cbb64a913e51d5707e1e22c9bec28f5cabf0 202 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZnp/kACgkQ5Vfn9vbt
-T6okLhAAnFlSB0IyfhKQ66ueh3jbeu9Tlab7qAmmiOkwxmvQihVu61MXuCI/gaYY
-4sQXvhKkpTNwVFN/Jr0pL3VPUMVtPxy+W73oG4Zv+MFVV2q6TgzJVAIJxg1a/5RH
-hzh23NjLvpkNtgR6FQda6PG6keWYQMVwoJPh5HDMklhQSjav5lpiZJlFhXIwgAaO
-UzJUVhCo2WznSPaWSYP7UKsGfkEjqk/Jhg0RBeunc7YqIIKHaBFEAt/6XWtUjCkJ
-VZcth/V8w9xqhx+3147lz/l09r+Cv7ui8d5r1168ukJqckvtYPAmJ9EPuKN30Kn2
-B6MfkWY7cWdpYqMXxNcpbOJmQ1ihPWjw3jxzWMd+qgmutoHXEXw+MI68BNFXL2Ee
-QmZsalcKpa7DIq10ovWEG/4p0rR5SIAjLrGzLpEuPBZK3exr59uktJ6bwTGrbFbB
-2sQsYj7vON80qagIHD03+eo+ZHWPHZzSAYQCmYBEEzwGFO6dGpp/qU/640F0mobp
-FYXgt79RAqIw3L+py+wqPqWw3ljXSSi58G9ooN4wFhQe4My/s4aN0LgE/LsdoQ+D
-Eh51VyBY/ohFHBDOwPNbwFcIZHukvOfe11kj6Gavc+PGexVjBAJs+J+hDBnneRF7
-in8CpK5GutHJ78K16PyClptw2kXrxrPDlhidQFQnp19aBaLC4y4=
-=5q7j
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZntTYACgkQ5Vfn9vbt
+T6oRJRAAsXyqsxdD7EbS7Q8MaO5ikKIZMHllni4HbRSA2fATcCQu61iNAkS/v3sn
+7ziQwrkkzrzjlXaxNZ8nXS8qu3EoIr8s1ZlRetgM2Xnee45aeRy4AT/0MA42Dy2+
+a33U2UpIZQzbazfxPr40pug7GPtM4MJc6NGyO1ibEp32YAnSg3KPCoQvSsOvO2i4
+KorpgyJNBg4LGALtEiXOBAtsuyCrDZeH2tUUUzYkfEDq4kD3DEzNLzKGoFy2ESeI
++ssdwwo9PVJRIZuShifXxV4V+dkxqFVfK5y7Y/+90eTyT/H/B0+iAl1Cnelg4isE
+oN76nO06ApbYHfrA975S0f5Re6vYKXSJhelV8twbZnyE558tmNF7SOO2IkAsWnJo
+abFnAUpk6j0E8gDeQadKmrohrnaxsKeMUXCFZV1XWOY412OAOWNq2DOR5W5/bh2B
+s5mcGLbxUeWt6UMWm6sgWEw88fwOHCyhRxJKSx+g+4sjUuME+im+5OhVS/Kcd0EM
+41zT+K1N63hopzt89XqCLV8IOnCfZkPqTkVg5Qf5+kHjS+pyJud8hmcMP4grdTaF
+uTqvDciCZVLca2+YTi3b8oogBUv8oJvebMBdfe6L6PBb6afIrePN31+4cIbGg++r
+JsJeKzypCtqTeuqJlwLb8cAScL18mUD3ejZfZRuImjCaj7kgvVo=
+=3HrT
 -----END PGP SIGNATURE-----

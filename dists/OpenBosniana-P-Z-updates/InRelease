@@ -6,7 +6,7 @@ Label: OpenBosniana-P-Z Repository
 Suite: 2024
 Codename: OpenBosniana-P-Z-updates
 Version: 2024
-Date: Tue, 11 Jun 2024 01:27:19 UTC
+Date: Tue, 11 Jun 2024 02:23:48 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  944b77372114d18adba4b9a44c104f47bc73a37b626dd51d065445f72444a373 201 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZnp/gACgkQ5Vfn9vbt
-T6oVahAAnGqj29IS72/sDqwnXa508Wp5UXO1+RAFjzQSgUENNOY1mm9ujChz2C/1
-NRHankPuaFUido2oxxwtr9VSkGkAY/UCzxciwM30kI7UEt3zf4TSvThYt9HwZPgA
-4jdASQLJZJ0yuv+SKCb9MZx1/q83OdSn3u/AQOOAD9p2pOwhsP2D2Rkecd6wIt1H
-r1NyTsHZm+Y8iM/or6X9uIAJifvbdCjeeYqpAs3JoX8gzEB8Z0BJMwrqUOZZB2ax
-C9LZBrsegLQ+Aj3q/XK4F9useBGPmbxaeJMedY0zLjGJb7dE09NUtcRkZNA0TBcB
-Rj/TgZkiWqmOFm5GM2GZLay57knfZFVm9Jmx3JKUY6NzfTrlhm8/jKGhTuZq2A6L
-EMWnOxe/qjNSZrYyQKYDvU74r+8OzIEMA375wMfHQ3e4mpNNDUbQCR3Ua4m/JO/4
-UUUgLOBbWlHXT4u2iX8nkKlbsVMrD7yPm75it8ptxH2uob2qxjIU/V94yvaKxamw
-5oqAK835QKaH2/E+ovu8+Zscs707jv/maYOPFhfv1/aiCuRYxH8OW+LVEqspOzPt
-5seS9VKLWnlHJ6S25UkcCH0bY0VVcNK+9OSY7BHKJQxPOsusfP8QpiZvPtDPAMWO
-oDn5LZVMTnC6qoIcfkpmmlSEnCyUCYQE3Cx57oDP+ao+e8mtLt4=
-=eASF
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZntTUACgkQ5Vfn9vbt
+T6p7vxAAwdvzkF08+cfWEIOa/J8bRhZL77sHEJJVGhTWNGNfWfie+6MwixBGTA+F
+w/Z8hxu/CxbgSFwVYdJ3ft09WSQmLaWrB+lHtVrJwiGgxRj8YS0s0Z3WnT6Wmdj0
+YrFEm19rz5VU4fL0H7sIGV9IvOJEcoM4hgqIRgUGzSfovqwtUlUv4cmbjJIDhwwt
+GoJWPKPObx/zawqicUbcb2wdLgvOp0VuPuO549Zp05CrLznbl4Pve7d6pvSxHd9W
+eCuYw/QaSBzpHv5/uwpacJyTUMEOOb2C4wEvbZhohBuaTfL322N6/XLQMt5NCloB
+561ye/bBe+ID68j7QH9tSb7JjfehxfR96D7FPjK/AX4zrVtvFyPkja8XEh1SXUiM
+N91kJNdjDVA3GfqMtZfhOYS9YlyEcVzNQvcOd51zi1q+ZRtpBlfRkDxsblNxAND2
+fZJ8p1XdxCMUi1vHJ+NWF8ed1vE+LyxoHMFdTqClheFLprwxmzGzuIsUCDitvD2w
+ixuYb6P4X0nTWlx0HtlvnNFyiXhQCJ5JxGPqlnNlpB3fPch0gfpQhCq1Z1SX3Nm8
+P8l192CVN+nk7701q6Y9O8vRoRtvVH7pPCt9QRTx+lxxGDLSKM/v2VdVZPp4PP0y
+blwi7gUygKm0atT71c+R83EDRN0FCioIWhaTW35scOtipp0VKb4=
+=7/sW
 -----END PGP SIGNATURE-----
